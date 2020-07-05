@@ -1,0 +1,4 @@
+C:\Fitreo\Unity\UnityDesktopToAndroidBluetooth-master\PC\BluetoothToTCP\BluetoothToTCP\obj\Release\BluetoothToTCP.csprojResolveAssemblyReference.cache
+C:\Fitreo\Unity\UnityDesktopToAndroidBluetooth-master\PC\BluetoothToTCP\BluetoothToTCP\obj\Release\BluetoothToTCP.Form1.resources
+C:\Fitreo\Unity\UnityDesktopToAndroidBluetooth-master\PC\BluetoothToTCP\BluetoothToTCP\obj\Release\BluetoothToTCP.Properties.Resources.resources
+C:\Fitreo\Unity\UnityDesktopToAndroidBluetooth-master\PC\BluetoothToTCP\BluetoothToTCP\obj\Release\BluetoothToTCP.csproj.GenerateResource.Cache

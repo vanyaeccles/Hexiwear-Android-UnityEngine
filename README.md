@@ -1,4 +1,4 @@
-#Welcome!
+# Welcome!
 
 This is a project I was working with Patrick King on back in 2018. I won't be working on or updating it much - but if you are using it for a project and would like help getting it to work please get in touch!
 
@@ -9,7 +9,7 @@ _Vanya Eccles, 5/7/2020_
 
 
 ___
-##What was the purpose of the project?:
+## What was the purpose of the project?
 
 The core idea was to allow play with the Unity game engine through the movement of one's body. The player would wear multiple sensors, connect everything up via Bluetooth and play a Unity game through movement.
 
@@ -17,7 +17,7 @@ We used Hexiwears as the wearables, which are a cool hackable IoT/Wearable devic
 
 
 ___
-##Where was the project left off?:
+## Where was the project left off?
 
 We left it in a state where it was a little bit fiddly setting up the connections and we weren't able to get the latency between the wearable and the game engine down to a suitable level*. Still I believe it could be used as a jumping off point for projects using Wearables/Bluetooth/Android/Windows/Unity.
 
@@ -25,7 +25,7 @@ We left it in a state where it was a little bit fiddly setting up the connection
 * *Probably due to BLE not being ideal for high frequency communication. I thought about adapting the firmware for the KW40Z Bluetooth MCU so it would allow Bluetooth Classic but I never got the required software/JTAG debugger. I'm unclear whether the KW40Z could support this.*
 
 ___
-##Details:
+## Details:
 
 This is a system to create a kind of Bluetooth network between multiple [Hexiwear](https://www.hexiwear.com/) devices, an Android phone and a Windows PC.
 
@@ -33,7 +33,7 @@ This is a system to create a kind of Bluetooth network between multiple [Hexiwea
 
 - The data can then be streamed (via a seperate Bluetooth Classic connection) from an Android phone to a PC running the Unity game engine.
 ___
-##Major components:
+## Major components:
 
 **Android/android-BluetoothChat-master/**
 

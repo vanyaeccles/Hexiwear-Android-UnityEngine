@@ -19,10 +19,10 @@ We used Hexiwears as the wearables, which are a cool hackable IoT/Wearable devic
 ___
 ## Where was the project left off?
 
-We left it in a state where it was a little bit fiddly setting up the connections and we weren't able to get the latency between the wearable and the game engine down to a suitable level*. Still I believe it could be used as a jumping off point for projects using Wearables/Bluetooth/Android/Windows/Unity.
+We left it in a state where it was a little bit fiddly setting up the connections and we weren't able to get the latency between the wearable and the game engine down to a suitable level \*. Still I believe it could be used as a jumping off point for projects using Wearables/Bluetooth/Android/Windows/Unity.
 
 
-* *Probably due to BLE not being ideal for high frequency communication. I thought about adapting the firmware for the KW40Z Bluetooth MCU so it would allow Bluetooth Classic but I never got the required software/JTAG debugger. I'm unclear whether the KW40Z could support this.*
+\* *Probably due to BLE not being ideal for high frequency communication. I thought about adapting the firmware for the KW40Z Bluetooth MCU so it would allow Bluetooth Classic but I never got the required software/JTAG debugger. I'm unclear whether the KW40Z could support this.*
 
 ___
 ## Details:

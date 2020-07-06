@@ -35,6 +35,13 @@ This is a system to create a kind of Bluetooth network between multiple [Hexiwea
 ___
 ## Major components:
 
+**hexiwear/**
+
+This contains the open-source Hexiwear firmware for the main chip on the Hexiwear, the Kinetis K64 Microcontroller Unit. The code is intended to be edited in Kinetis Design Studio.
+
+- Firmware code was adapted to allow for higher frequency transmission of IMU sensor data along with other small changes. My changes to the original firmware code are commented with '//vanya'
+
+
 **Android/android-BluetoothChat-master/**
 
  Android app built in Android Studio, used here primarily as a node that connects the wearables to a Windows PC.
@@ -61,11 +68,3 @@ Software from the [UnityDesktopToAndroidBluetooth](https://github.com/Freefly18/
 - Reads Bluetooth from the Windows OS
 - Opens a TCP server on the host that can be connected to by Unity.
 
-
-
-**hexiwear/**
-
-This contains the Kinetis Design Studio project and the open-source Hexiwear firmware.
-
-- Code pertaining to the hexiwear MCU was adapted to allow for higher frequency transmission of IMU sensor data along with other small changes. My changes to the code are commented with '//vanya'
-- Has some other hexiwear stuff like datasheets.

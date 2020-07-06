@@ -1,6 +1,6 @@
 # Welcome!
 
-This is a project I was working with Patrick King on back in 2018. I won't be working on or updating it much - but if you are using it for a project and would like help getting it to work please get in touch!
+This is a project I was working with Patrick King on back in 2018. I won't be working on or updating it much - but if you are using any part of it for a project and would like help getting it to work please get in touch!
 
 
 Code mostly by me but I did use work from the [UnityDesktopToAndroidBluetooth](https://github.com/Freefly18/UnityDesktopToAndroidBluetooth) by Alexandre Millette. The Hexiwear code is from the [Hexiwear](https://github.com/MikroElektronika/HEXIWEAR) repository. Please get in touch if I have neglected to acknowledge work by anyone or if I am breaking any license.
